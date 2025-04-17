@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Hamza Bendemra
+## 👋 Hello, I’m Hamza Bendemra
 
 Welcome to my GitHub profile. I’m a **Machine Learning Engineer** with a passion for solving complex business problems through **AI, data, and intelligent systems**.
 
@@ -6,7 +6,7 @@ Currently based in Abu Dhabi 🇦🇪, I build production-grade tools that combi
 
 ---
 
-## 🔍 About Me
+### 🔍 About Me
 
 🎓 **Academic Background**  
 PhD in Engineering, with a strong foundation in applied research, data science, and statistical modeling.
@@ -24,7 +24,7 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
 > 🔐 *Most of my work is internal-facing, but here are a few highlights and personal projects:*
 
@@ -34,7 +34,7 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 
 ---
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hamzabendemra)  
 - 📝 [Medium](https://medium.com/@hamzabendemra) *(writing in progress)*  
