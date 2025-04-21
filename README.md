@@ -28,7 +28,7 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 
 > 🔐 *Most of my work is internal-facing, but here are a few highlights and personal projects:*
 
-- **HR LLM Assistant** – Private GPT-style assistant.  
+- **Internal LLM Assistant** – Private GPT-style assistant.  
 - **Business Insights Dashboard** – Interactive NLP-powered tool for analyzing ML-powered business initiatives results.  
 - **Text Simplifier API** – FastAPI-based app for transforming complex language into digestible and actionable reports for stakeholders.
 
