@@ -9,9 +9,9 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 
 🛠️ **Core Competencies**  
 - Machine Learning & NLP (scikit-learn, PyTorch, open-source LLMs)  
-- Python Web Development (FastAPI, Streamlit, Plotly)  
 - Data Engineering & Automation (SQL, Pandas, Synapse Analytics)  
 - CI/CD & Cloud Deployment (Docker, Azure, DevOps)
+- Python Web Development (FastAPI, Streamlit, Plotly)  
 
 📈 **Strategic Focus Areas**  
 - Leadership development through data  
