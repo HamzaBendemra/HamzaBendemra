@@ -4,8 +4,6 @@ Welcome to my GitHub profile. I’m a **AI & ML Lead** with a passion for solvin
 
 Currently based in Abu Dhabi 🇦🇪, I build production-grade tools that combine **Machine Learning**, **Natural Language Processing**, and **web frameworks** to serve web apps to my stakeholders.
 
----
-
 ### 🔍 About Me
 
 🎓 **Academic Background**  
