@@ -21,5 +21,3 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 - Leadership development through data  
 - AI-driven decision support tools  
 - Enabling explainable and human-centered ML
-
----
