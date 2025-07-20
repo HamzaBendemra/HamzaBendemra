@@ -23,8 +23,3 @@ PhD in Engineering, with a strong foundation in applied research, data science, 
 - Enabling explainable and human-centered ML
 
 ---
-
-### 🤝 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hamzabendemra)  
-- 📝 [Medium](https://medium.com/@hamzabendemra) *(writing in progress)*  
