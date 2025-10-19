@@ -2,4 +2,8 @@
 
 Welcome to my GitHub profile. I’m a **AI & ML Lead** with a passion for solving complex business problems through **AI, data, and intelligent systems**.
 
-Currently based in Abu Dhabi 🇦🇪, I build production-grade tools that combine **Machine Learning**, **Natural Language Processing**, and **web frameworks** to serve web apps to my stakeholders.
+Based in Abu Dhabi 🇦🇪, I’ve built end-to-end AI platforms that power data-driven decision-making. My expertise lies in **machine learning**, **LLMs**, and **cloud-native MLOps** — and in translating complex models into business value.
+
+I believe the future belongs to systems that learn responsibly and empower humans, not replace them.
+
+🚀 From insight to impact — that’s the mission.
